@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Centro Terapéutico</string>
+    <string name="title_activity_mapa">Mapa</string>
+
+    <!--BTN TEXT-->
+    <string name="btnRegistrar">Registrar</string>
+    <string name="btnAcceder">Acceder</string>
+    <string name="btnRegistro">Registrar</string>
+
+
+    <string name="rbDni">DNI</string>
+    <string name="rbRUC">RUC</string>
+
+    <string name="hintDoc">Numero</string>
+
+
+    <string name="txtDoc">N° Documento</string>
+
+
+    <!--Email-->
+    <string name="email_sugerencia">Escriba su sugerencia...</string>
+    <string name="email_reclamo">Escriba su reclamo...</string>
+
+
+</resources>
